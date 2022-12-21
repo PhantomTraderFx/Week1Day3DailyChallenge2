@@ -1,0 +1,55 @@
+.box-type-1 {
+    background-color: #FF7100;  
+}
+
+.box-type-2 {
+    background-color: #FFB471;
+}
+
+.box-type-3 {
+    background-color: #A84A00;
+}
+
+.box-type-4 {
+    background-color: #CCCCCC;
+}
+
+.box-type-5 {
+    background-color: #999999;
+}
+
+.box-type-6 {
+    background-color: #666666;
+}
+
+.box-type-7 {
+    background-color: #333333;
+}
+
+.box-type-8 {
+    background-color: #e67f7e;
+}
+
+.box-type-9 {
+    background-color: #D83E3B;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+}
+
+.box-pink {
+    width: 50px;
+    height: 50px;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+}
